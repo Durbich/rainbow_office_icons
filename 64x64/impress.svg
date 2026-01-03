@@ -7,12 +7,34 @@
    viewBox="0 0 15.999999 15.999999"
    version="1.1"
    id="svg1"
+   sodipodi:docname="impress.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.0625005"
+     inkscape:cx="31.999998"
+     inkscape:cy="31.999998"
+     inkscape:window-width="1600"
+     inkscape:window-height="808"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <linearGradient
@@ -125,17 +147,9 @@
        id="path47"
        transform="matrix(1,0,0,0.91672584,0,1.3182564)" />
     <path
-       id="rect1"
-       style="display:inline;fill:#ff6a00;fill-opacity:1;stroke-width:9.81427"
-       d="M 3.1758267,1.0583333 H 9.5249998 L 12.43869,4.5790422 A 1.1380809,1.1380809 70.194655 0 1 12.7,5.3046459 V 15.875 H 3.1756409 A 1.0589743,1.0589743 45 0 1 2.1166666,14.816026 V 2.1174934 A 1.0591601,1.0591601 135 0 1 3.1758267,1.0583333 Z" />
-    <path
        id="rect1-5"
        style="display:inline;fill:url(#linearGradient4);fill-opacity:1;stroke-width:9.81427"
        d="M 3.1758267,1.0583333 H 9.5249998 L 12.43869,4.5790422 A 1.1380809,1.1380809 70.194655 0 1 12.7,5.3046459 V 15.875 H 3.1756409 A 1.0589743,1.0589743 45 0 1 2.1166666,14.816026 V 2.1174934 A 1.0591601,1.0591601 135 0 1 3.1758267,1.0583333 Z" />
-    <path
-       id="rect1-3"
-       style="display:none;fill:url(#linearGradient2);fill-opacity:1;stroke-width:9.81427"
-       d="m 3.1768602,1.0583333 h 6.3481394 l 2.9157634,3.5232133 a 1.1290477,1.1290477 70.194756 0 1 0.259236,0.7198484 l -3.8e-5,10.573604 H 3.1766535 A 1.0599869,1.0599869 45 0 1 2.1166666,14.815012 V 2.1185269 A 1.0601936,1.0601936 135 0 1 3.1768602,1.0583333 Z" />
   </g>
   <g
      id="layer2"
