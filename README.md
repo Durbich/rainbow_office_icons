@@ -5,10 +5,9 @@
 
 <h3>&emsp;If you like the icons above, feel free to download them. For now there are only 64x64 .svg  files in the corresponding folder.</h3>
 
-&emsp; Maybe in the future I'll add other sizes to this repo, but for now resizing 64 to 48 px and aligning everything to the grid is a huge pain in the ass. So I'm not promissing it
-<br/><br/>
 &emsp; Icons for RTL languages like Arabic or Hebrew will be added later.
-<br/>
+<br/><br/>
+This set was made for LibreOffice, but sure it might fit well another office suite. If 7 icons suffice.
 <br/>
 <h1>Some beta versions:</h1>
 <p>In case your're interested in my thought train<p>
