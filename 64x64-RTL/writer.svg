@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="63.999996"
+   height="63.999996"
+   viewBox="0 0 15.999999 15.999999"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#1a5fb4;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#3584e4;stop-opacity:1;"
+         offset="0.48412648"
+         id="stop6" />
+      <stop
+         style="stop-color:#99c1f1;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient6"
+       x1="14.2875"
+       y1="15.345834"
+       x2="2.3812501"
+       y2="3.4395835"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,16.933333,0)" />
+  </defs>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer4"
+     transform="matrix(-1,0,0,1,15.999999,0)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:8.31894"
+       id="rect45"
+       width="12.7"
+       height="14.816667"
+       x="2.1166666"
+       y="1.0583333"
+       d="M 3.1878849,1.0583333 H 13.758746 a 1.0579199,1.0579199 45 0 1 1.05792,1.0579199 V 14.81584 A 1.0591601,1.0591601 135 0 1 13.757506,15.875 H 3.1773838 A 1.0607172,1.0607172 45 0 1 2.1166666,14.814283 V 2.1295516 A 1.0712183,1.0712183 135 0 1 3.1878849,1.0583333 Z"
+       transform="scale(0.9448819)" />
+    <path
+       id="rect1-9-9"
+       style="display:inline;fill:url(#linearGradient6);fill-opacity:1;stroke-width:9.81427"
+       d="M 3.173212,1.0583333 H 9.5249998 L 12.428461,4.5666825 A 1.1826301,1.1826301 70.194655 0 1 12.7,5.3206893 V 15.875 H 3.1759221 A 1.0592555,1.0592555 45 0 1 2.1166666,14.815744 V 2.1148787 A 1.0565454,1.0565454 135 0 1 3.173212,1.0583333 Z"
+       transform="scale(0.9448819)" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline;opacity:1"
+     transform="matrix(-1,0,0,1,15.999999,0)">
+    <g
+       id="g6"
+       style="display:inline;fill:#ffffff;fill-opacity:0.5">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:5"
+         id="rect2"
+         width="3"
+         height="3"
+         x="3"
+         y="5"
+         ry="0.5" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:4.82858"
+         id="rect3"
+         width="4"
+         height="1"
+         x="7"
+         y="5"
+         ry="0.25" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:4.9596"
+         id="rect4"
+         width="4"
+         height="1"
+         x="7"
+         y="7"
+         ry="0.25" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:6.09412"
+         id="rect5"
+         width="8"
+         height="1"
+         x="3"
+         y="9"
+         ry="0.25" />
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:6.09412"
+         id="rect5-1"
+         width="8"
+         height="1"
+         x="3"
+         y="11"
+         ry="0.25" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:6.29593"
+         id="rect6"
+         width="6"
+         height="1"
+         x="3"
+         y="13"
+         ry="0.25" />
+    </g>
+  </g>
+  <g
+     id="layer3"
+     transform="matrix(-1,0,0,1,13.749999,-4.75)">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0.499189;stroke-width:3.75"
+       d="m 9,1 3,3 V 5 A 1.003805,1.003805 45 0 0 11,4 l 0,0 H 9 Z"
+       id="path22-5"
+       transform="translate(-2.25,4.75)" />
+  </g>
+</svg>
